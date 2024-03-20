@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>B9A09AE3-3A8B-4902-BA36-BEAA88B6C962</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B9A09AE3-3A8B-4902-BA36-BEAA88B6C962.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>23</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Project 4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Project 4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Project 4</string>
+			<key>timeStartedRecording</key>
+			<real>732577868.41306698</real>
+			<key>timeStoppedRecording</key>
+			<real>732577869.27925801</real>
+			<key>title</key>
+			<string>Build Project 4</string>
+			<key>uniqueIdentifier</key>
+			<string>B9A09AE3-3A8B-4902-BA36-BEAA88B6C962</string>
+		</dict>
+		<key>E6188A51-DA6D-479D-AE01-4C368C4A4B64</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6188A51-DA6D-479D-AE01-4C368C4A4B64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>23</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Project 4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Project 4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Project 4</string>
+			<key>timeStartedRecording</key>
+			<real>732577373.44267797</real>
+			<key>timeStoppedRecording</key>
+			<real>732577376.38536704</real>
+			<key>title</key>
+			<string>Build Project 4</string>
+			<key>uniqueIdentifier</key>
+			<string>E6188A51-DA6D-479D-AE01-4C368C4A4B64</string>
+		</dict>
+		<key>F5FD1797-A38C-48CD-885C-DDC5F6972E7C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F5FD1797-A38C-48CD-885C-DDC5F6972E7C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>23</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Project 4 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Project 4</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Project 4</string>
+			<key>timeStartedRecording</key>
+			<real>732587929.81188595</real>
+			<key>timeStoppedRecording</key>
+			<real>732587930.86378896</real>
+			<key>title</key>
+			<string>Build Project 4</string>
+			<key>uniqueIdentifier</key>
+			<string>F5FD1797-A38C-48CD-885C-DDC5F6972E7C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

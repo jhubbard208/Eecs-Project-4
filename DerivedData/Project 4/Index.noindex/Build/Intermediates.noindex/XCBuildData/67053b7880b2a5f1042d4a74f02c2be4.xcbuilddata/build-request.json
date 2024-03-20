@@ -1,0 +1,61 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a368aa110316403a80ed44296cc450e25a3438033ee6b293c0489dbd16170b5b"
+    }
+  ],
+  "containerPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/Project 4.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.4",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Build/Products",
+      "pchPath" : "/Users/jackhubbard/Documents/EECS 183/Project 4/Project 4/DerivedData/Project 4/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
